@@ -1,0 +1,85 @@
+body{
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+
+.panda-card{
+    border: 0;
+    background-color: beige;
+
+}
+.panda-card-footer{
+    border: 0;
+    background-color: white;
+}
+.formal{
+    border: 0;
+}
+.formal-footer{
+    border: 0;
+}
+.fit{
+    border: 0;
+    background-color: whitesmoke;
+}
+.price{
+    color: coral;
+    
+}
+.batom{
+    border-radius: 10px;
+    width:150px;
+}
+.writing{
+    color: chocolate;
+}
+.text-center{
+    color: blue;
+}.top{
+    width: 30%;
+    float: right;
+    margin-right: 2%;
+    padding-right: 10%;
+    padding-top: 10%;
+
+}
+.top img{
+width: 70%;
+float: left;
+}
+
+.headSection__left{
+    width: 35%;
+    margin-right: 5rem;
+
+}
+.headSection__left h1{
+    text-transform: uppercase;
+    color: #363958;
+    font-size: 50px;
+}
+.headSection__left .name{
+    color: #8aff67;
+}
+.headSection__left p{
+    font-size: 16px;
+    margin-bottom: 4rem;
+}
+
+
+.headSection__right{
+    width: 35%;
+    margin-left: 20px;
+}
+.headSection__right img{
+    width: 100%;
+    padding: 10px;
+}
+.header__button{
+    text-decoration: none;
+    background-color: #8f6b28;
+    background-image: linear-gradient(45deg, #ffa702,#8f6b28 );
+    padding: 12px 25px;
+    border-radius: 8px;
+    color: white;
+}
